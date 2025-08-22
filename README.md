@@ -14,13 +14,13 @@ A minimalist desktop countdown widget which can be used for Exam dates or other 
 
 ## Development Journey
 v1.0: Basic countdown with fixed date
-v1.2: Added custom date selection
-v1.5: Improved UI with modern design
+v1.1: Added custom date selection
+v1.2: Improved UI with modern design
 v2.0: Added persistence and custom titles
 v2.1: Enhanced desktop integration
 
 ## How to Use
-- Download the .exe file
+- Download the .exe file from the dist folder
 - Run the application
 - Set your event title and target date
 - Position anywhere on your desktop
@@ -30,3 +30,6 @@ Built with Python and PyQt6, Compiled to standalone .exe using PyInstaller, No i
 
 ## Note
 Feel free to fork this repository and add new features! This was a quick project that could benefit from community improvements.
+
+### Screenshot
+<img width="1236" height="868" alt="image" src="https://github.com/user-attachments/assets/f19da3e9-3d6c-4ea2-a8d2-f0e9932afaa6" />
